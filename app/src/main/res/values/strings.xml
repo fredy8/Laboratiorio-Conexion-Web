@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">A01191157_LaboConexionWeb</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tituloMain">Climas</string>
+    <string name="tempActualString">Actual:</string>
+    <string name="tempMaximaString">Máxima:</string>
+    <string name="tempMinimaString">Mínima:</string>
+</resources>
